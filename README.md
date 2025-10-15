@@ -1,4 +1,4 @@
-<p align="center"><img src="https://s3.amazonaws.com/heliumedu.prod.platform.static/img/logo_full_blue.png" /></p>
+<p align="center"><img src="https://www.heliumedu.com/assets/img/logo_full_blue.png" /></p>
 
 ![GitHub License](https://img.shields.io/github/license/heliumedu/mobile)
 
